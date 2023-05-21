@@ -145,7 +145,8 @@ nav {
 }
 
 a:link,
-a:visited {
+a:visited,
+a:focus{
   all: unset;
 }
 
