@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/angolino-simple/static/css/main.7b14bbcd.css",
+    "main.css": "/angolino-simple/static/css/main.76ff2423.css",
     "main.js": "/angolino-simple/static/js/main.26c15efe.js",
     "static/js/787.3b6966bc.chunk.js": "/angolino-simple/static/js/787.3b6966bc.chunk.js",
     "static/media/font.woff": "/angolino-simple/static/media/font.10f30166c84a0fc4d0f1.woff",
     "static/media/font.woff2": "/angolino-simple/static/media/font.33d7ea4c5d3b5bb28c9e.woff2",
     "index.html": "/angolino-simple/index.html",
-    "main.7b14bbcd.css.map": "/angolino-simple/static/css/main.7b14bbcd.css.map",
+    "main.76ff2423.css.map": "/angolino-simple/static/css/main.76ff2423.css.map",
     "main.26c15efe.js.map": "/angolino-simple/static/js/main.26c15efe.js.map",
     "787.3b6966bc.chunk.js.map": "/angolino-simple/static/js/787.3b6966bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b14bbcd.css",
+    "static/css/main.76ff2423.css",
     "static/js/main.26c15efe.js"
   ]
 }
