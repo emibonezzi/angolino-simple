@@ -9,10 +9,6 @@
 }
 
 
-a:focus {
-  all:unset;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -550,6 +546,7 @@ footer {
   cursor: pointer;
   border: #C2BFBD solid 2px;
   transition: 0.6s;
+  color:black;
 }
 
 .buttons button:hover {
@@ -630,8 +627,4 @@ ul a {
   all:unset;
   display: contents;
   cursor: pointer;
-}
-
-a:focus {
-  all:unset;
 }
