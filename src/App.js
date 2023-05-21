@@ -58,7 +58,7 @@ function Gallery({ index, handleChange }) {
 
   return (
     <div class="gallery hidden">
-      <img ref={imgRef} src={`/${imgPaths[index]}`}></img>
+      <img ref={imgRef} src={`${imgPaths[index]}`}></img>
       <button onClick={handleChange} id="next"><i class="fa-solid fa-chevron-right"></i></button>
       <button id="back"><i class="fa-solid fa-chevron-left"></i></button>
     </div>
@@ -126,8 +126,8 @@ function App() {
         </div>
       </nav>
       <header>
-        <img class="left" src="/utens1.svg"></img>
-        <img class="right" src="/utens2.svg"></img>
+        <img class="left" src="utens1.svg"></img>
+        <img class="right" src="utens2.svg"></img>
         <div class="hello">
           <img src="forks.png"></img>
           <p>L'ANGOLINO</p>
@@ -139,12 +139,12 @@ function App() {
         <section id="chi-siamo">
           <h1 class="hidden">FILOSOFIA</h1>
           <p>Siamo un ristorante che crede nella qualità delle realtà locali e nella collaborazione tra le piccole imprese. Per questo motivo, la maggior parte dei nostri prodotti e delle materie prime proviene da attività locali. Ci impegniamo a garantire la massima qualità dei nostri piatti, utilizzando solo ingredienti freschi e di stagione. Il nostro obiettivo è offrire un'esperienza culinaria unica, che soddisfi i gusti e le esigenze di ogni cliente.</p>
-          <span><img class="hidden" src="/burger.svg"></img></span>
+          <span><img class="hidden" src="burger.svg"></img></span>
         </section>
         <section id="cucina">
           <h1 class="hidden">CUCINA</h1>
           <p> Potrete gustare piatti della tradizione italiana rivisitati in chiave moderna, utilizzando solo ingredienti di alta qualità provenienti da attività locali. </p>
-          <span><img class="hidden" src="/spaghetti.svg"></img></span>
+          <span><img class="hidden" src="spaghetti.svg"></img></span>
         </section>
         <section id="gallery">
           <h1 class="hidden">GALLERY</h1>
