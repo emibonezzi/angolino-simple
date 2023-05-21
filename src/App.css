@@ -8,6 +8,11 @@
     url('font.woff') format('woff');
 }
 
+
+a:focus {
+  all:unset;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -625,4 +630,8 @@ ul a {
   all:unset;
   display: contents;
   cursor: pointer;
+}
+
+a:focus {
+  all:unset;
 }
