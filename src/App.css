@@ -347,7 +347,7 @@ footer {
   bottom: 20px;
   font-size: 50px;
   color: #3C525D;
-  animation: bouncing 2s infinite ease-in-out;
+  animation: bouncing 2s infinite 0.01s ease-in-out;
 }
 
 @keyframes bouncing {
